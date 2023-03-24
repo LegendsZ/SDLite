@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SDLite",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Audio::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Audio-Debug-acfd09b16cef6a67e31c.json",
+					"name" : "Audio",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Button::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Button-Debug-b7beda5081f0b5878c4c.json",
+					"name" : "Button",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FRect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FRect-Debug-ecf9cf68c8fde957f513.json",
+					"name" : "FRect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Rect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Rect-Debug-e25b6655ae01339d1154.json",
+					"name" : "Rect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SDLite::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDLite-Debug-f5bc645675235f7907a2.json",
+					"name" : "SDLite",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SDLiteMain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDLiteMain-Debug-9befa437660185fa2aa3.json",
+					"name" : "SDLiteMain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Text::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Text-Debug-3ff96e76c5cf44bc5499.json",
+					"name" : "Text",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Window::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Window-Debug-f49278766a0f32b2ed23.json",
+					"name" : "Window",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug",
+		"source" : "C:/Users/WINDOWS/Documents/GitHub/SDLite"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

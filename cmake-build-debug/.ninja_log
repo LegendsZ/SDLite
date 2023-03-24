@@ -1,0 +1,10 @@
+# ninja log v5
+25	625	7013263451014106	CMakeFiles/Audio.dir/src/Audio.cpp.obj	9c9f527ee4f12d82
+38	1366	7013263458423764	CMakeFiles/SDLite.dir/src/SDLiteMain.cpp.obj	24faa15487d18d9
+9	1329	7013263458053771	CMakeFiles/SDLiteMain.dir/src/SDLiteMain.cpp.obj	966a9371d954ff44
+12	1443	7013263459203764	CMakeFiles/Text.dir/src/Text.cpp.obj	2da1c940603b7f25
+17	1528	7013263460053762	CMakeFiles/Rect.dir/src/Rect.cpp.obj	721d13f4e3fd923e
+20	1435	7013263459103768	CMakeFiles/Button.dir/src/Button.cpp.obj	c46d17705f2eaa11
+4	1475	7013263459483786	CMakeFiles/Window.dir/src/Window.cpp.obj	cad822e2592b747e
+31	1524	7013263460003741	CMakeFiles/FRect.dir/src/FRect.cpp.obj	78eb954d9a2c6765
+1528	1593	7013263460713756	libSDLite.a	82f429180e9f3d9d

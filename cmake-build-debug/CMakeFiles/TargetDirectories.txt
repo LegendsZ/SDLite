@@ -1,0 +1,10 @@
+C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug/CMakeFiles/SDLiteMain.dir
+C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug/CMakeFiles/Window.dir
+C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug/CMakeFiles/Text.dir
+C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug/CMakeFiles/Rect.dir
+C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug/CMakeFiles/FRect.dir
+C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug/CMakeFiles/Button.dir
+C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug/CMakeFiles/Audio.dir
+C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug/CMakeFiles/SDLite.dir
+C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,42 @@
+[
+{
+  "directory": "C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/WINDOWS/Documents/GitHub/SDLite/include -isystem C:/Windows/System32/SDL2/cmake/../include -isystem C:/Windows/System32/SDL2_image/cmake/../include -isystem C:/Windows/System32/SDL2_mixer/cmake/../include -isystem C:/Windows/System32/SDL2_ttf/cmake/../include -g -fdiagnostics-color=always -std=gnu++20 -o CMakeFiles\\SDLiteMain.dir\\src\\SDLiteMain.cpp.obj -c C:\\Users\\WINDOWS\\Documents\\GitHub\\SDLite\\src\\SDLiteMain.cpp",
+  "file": "C:\\Users\\WINDOWS\\Documents\\GitHub\\SDLite\\src\\SDLiteMain.cpp"
+},
+{
+  "directory": "C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/WINDOWS/Documents/GitHub/SDLite/include -isystem C:/Windows/System32/SDL2/cmake/../include -isystem C:/Windows/System32/SDL2_image/cmake/../include -isystem C:/Windows/System32/SDL2_mixer/cmake/../include -isystem C:/Windows/System32/SDL2_ttf/cmake/../include -g -fdiagnostics-color=always -std=gnu++20 -o CMakeFiles\\Window.dir\\src\\Window.cpp.obj -c C:\\Users\\WINDOWS\\Documents\\GitHub\\SDLite\\src\\Window.cpp",
+  "file": "C:\\Users\\WINDOWS\\Documents\\GitHub\\SDLite\\src\\Window.cpp"
+},
+{
+  "directory": "C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/WINDOWS/Documents/GitHub/SDLite/include -isystem C:/Windows/System32/SDL2/cmake/../include -isystem C:/Windows/System32/SDL2_image/cmake/../include -isystem C:/Windows/System32/SDL2_mixer/cmake/../include -isystem C:/Windows/System32/SDL2_ttf/cmake/../include -g -fdiagnostics-color=always -std=gnu++20 -o CMakeFiles\\Text.dir\\src\\Text.cpp.obj -c C:\\Users\\WINDOWS\\Documents\\GitHub\\SDLite\\src\\Text.cpp",
+  "file": "C:\\Users\\WINDOWS\\Documents\\GitHub\\SDLite\\src\\Text.cpp"
+},
+{
+  "directory": "C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/WINDOWS/Documents/GitHub/SDLite/include -isystem C:/Windows/System32/SDL2/cmake/../include -isystem C:/Windows/System32/SDL2_image/cmake/../include -isystem C:/Windows/System32/SDL2_mixer/cmake/../include -isystem C:/Windows/System32/SDL2_ttf/cmake/../include -g -fdiagnostics-color=always -std=gnu++20 -o CMakeFiles\\Rect.dir\\src\\Rect.cpp.obj -c C:\\Users\\WINDOWS\\Documents\\GitHub\\SDLite\\src\\Rect.cpp",
+  "file": "C:\\Users\\WINDOWS\\Documents\\GitHub\\SDLite\\src\\Rect.cpp"
+},
+{
+  "directory": "C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/WINDOWS/Documents/GitHub/SDLite/include -isystem C:/Windows/System32/SDL2/cmake/../include -isystem C:/Windows/System32/SDL2_image/cmake/../include -isystem C:/Windows/System32/SDL2_mixer/cmake/../include -isystem C:/Windows/System32/SDL2_ttf/cmake/../include -g -fdiagnostics-color=always -std=gnu++20 -o CMakeFiles\\FRect.dir\\src\\FRect.cpp.obj -c C:\\Users\\WINDOWS\\Documents\\GitHub\\SDLite\\src\\FRect.cpp",
+  "file": "C:\\Users\\WINDOWS\\Documents\\GitHub\\SDLite\\src\\FRect.cpp"
+},
+{
+  "directory": "C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/WINDOWS/Documents/GitHub/SDLite/include -isystem C:/Windows/System32/SDL2/cmake/../include -isystem C:/Windows/System32/SDL2_image/cmake/../include -isystem C:/Windows/System32/SDL2_mixer/cmake/../include -isystem C:/Windows/System32/SDL2_ttf/cmake/../include -g -fdiagnostics-color=always -std=gnu++20 -o CMakeFiles\\Button.dir\\src\\Button.cpp.obj -c C:\\Users\\WINDOWS\\Documents\\GitHub\\SDLite\\src\\Button.cpp",
+  "file": "C:\\Users\\WINDOWS\\Documents\\GitHub\\SDLite\\src\\Button.cpp"
+},
+{
+  "directory": "C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/WINDOWS/Documents/GitHub/SDLite/include -isystem C:/Windows/System32/SDL2/cmake/../include -isystem C:/Windows/System32/SDL2_image/cmake/../include -isystem C:/Windows/System32/SDL2_mixer/cmake/../include -isystem C:/Windows/System32/SDL2_ttf/cmake/../include -g -fdiagnostics-color=always -std=gnu++20 -o CMakeFiles\\Audio.dir\\src\\Audio.cpp.obj -c C:\\Users\\WINDOWS\\Documents\\GitHub\\SDLite\\src\\Audio.cpp",
+  "file": "C:\\Users\\WINDOWS\\Documents\\GitHub\\SDLite\\src\\Audio.cpp"
+},
+{
+  "directory": "C:/Users/WINDOWS/Documents/GitHub/SDLite/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/WINDOWS/Documents/GitHub/SDLite/include -isystem C:/Windows/System32/SDL2/cmake/../include -isystem C:/Windows/System32/SDL2_image/cmake/../include -isystem C:/Windows/System32/SDL2_mixer/cmake/../include -isystem C:/Windows/System32/SDL2_ttf/cmake/../include -g -fdiagnostics-color=always -std=gnu++20 -o CMakeFiles\\SDLite.dir\\src\\SDLiteMain.cpp.obj -c C:\\Users\\WINDOWS\\Documents\\GitHub\\SDLite\\src\\SDLiteMain.cpp",
+  "file": "C:\\Users\\WINDOWS\\Documents\\GitHub\\SDLite\\src\\SDLiteMain.cpp"
+}
+]
